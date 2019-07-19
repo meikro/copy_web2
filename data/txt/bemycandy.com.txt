@@ -1,0 +1,31 @@
+<?php
+$mubiao = "www.hnecgc.com.cn";
+$beitihuan = array (
+  0 => '能源化工',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '乐投官网',
+  1 => '乐投官网',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "乐投官网|官网首页";
+$gjz = "乐投官网";
+$miaoshu = "乐投官网|官网首页是业内知名的专业游戏平台,为广大游戏用户提供最新、最优质的游戏,致力于游戏精细运作与良好的客户服务,经过多年发展已成为最受玩家喜爱的游戏平台。";
+$neiye = "http://www.hnecgc.com.cn/qywh/qywh_sub03.html";
+$time = "2017-01-05";
+$yuedu = "";
+$new_title = "河南能源企业行为规范";
+$nr_end =  '</div>';
+$nr_start = '<div class="cpyfw_list">';
+$server = ' Apache/2.0.40 (Red Hat Linux)';
+$lanmu = array (
+  0 => 'zlv',
+  1 => '2ysm',
+  2 => '4jyv',
+  3 => 'd66',
+  4 => 'a0qg',
+  5 => 'mdd',
+  6 => 'cv8l',
+);

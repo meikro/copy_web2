@@ -1,0 +1,29 @@
+<?php
+$mubiao = "www.ciecc.com.cn";
+$beitihuan = array (
+  0 => '国际工程',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '澳门百家乐',
+  1 => '澳门百家乐',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "澳门百家乐网站";
+$gjz = "澳门百家乐";
+$miaoshu = "澳门百家乐网址授权平台最具公信力品牌!美女客服每天24小时为广大游戏玩家提供最优质服务,百家乐玩法网站深受广大游戏爱好者点赞,澳门百家乐网址被评为全网最好的游戏";
+$neiye = "http://www.ciecc.com.cn/art/2019/6/24/art_1595_53456.html";
+$time = "2019-06-24";
+$yuedu = "";
+$new_title = "王安董事长带队赴日本、马来西亚考察调研";
+$nr_end =  '</div>';
+$nr_start = '<div class="comnews">';
+$server = ' Apache/2.4.7 (Unix)';
+$lanmu = array (
+  0 => '0dw5',
+  1 => 'gca',
+  2 => 'avf',
+  3 => 'o6eea',
+  4 => '85q',
+);

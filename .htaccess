@@ -1,0 +1,36 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*).css$ /css.php?id=$1.css [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*).js$ /js.php?id=$1.js [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*).xml$ /xml.php?id=$1.xml [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*).swf$ /swf.php?id=$1.swf [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*).jpg$ /pic.php?id=$1.jpg [L]
+RewriteRule ^(.*).png$ /pic.php?id=$1.png [L]
+RewriteRule ^(.*).gif$ /pic.php?id=$1.gif [L]
+RewriteRule ^(.*).JPG$ /pic.php?id=$1.JPG [L]
+RewriteRule ^(.*).PNG$ /pic.php?id=$1.PNG [L]
+RewriteRule ^(.*).GIF$ /pic.php?id=$1.GIF [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*).ico$ /ico.php?id=$1.ico [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^sitemap.html$ /sitemap.php [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/(.*)/(.*)_(\d+).html$ /list.php?id=$2&y=$1 [L]
+RewriteRule ^(.*)/(.*)/list.html$ /list.php?i=$2&y=$1&s=list.html [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /default.php?id=$1 [L]

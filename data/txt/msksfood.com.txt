@@ -1,0 +1,30 @@
+<?php
+$mubiao = "www.tiamaes.cn";
+$beitihuan = array (
+  0 => '天迈',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '和记娱乐',
+  1 => '和记娱乐',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "首页--和记娱乐官方网站";
+$gjz = "和记娱乐";
+$miaoshu = "和记娱乐页是业内知名的专业游戏平台,为广大游戏用户提供最新、最优质的游戏,致力于游戏精细运作与良好的客户服务,经过多年发展已成为最受玩家喜爱的游戏平台。";
+$neiye = "http://www.tiamaes.cn/news/gsxw/696.html";
+$time = "2019-06-25";
+$yuedu = "";
+$new_title = "天迈科技举办2019“激情向前冲”趣味运动会";
+$nr_end =  '</div>';
+$nr_start = '<div class="news_con">';
+$server = ' Apache';
+$lanmu = array (
+  0 => 'b88',
+  1 => 'ha73',
+  2 => 'eno8l',
+  3 => 'vnd',
+  4 => 'pu46t',
+  5 => 'vr3',
+);

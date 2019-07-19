@@ -1,0 +1,33 @@
+<?php
+$server = '﻿ Microsoft-IIS/7.5';
+$mubiao = "www.020tc.cn";
+$beitihuan = array (
+  0 => '天驰',
+  1 => '中国地质',
+  2 => '我们',
+  3=>'indexCn.html'
+);
+$tihuanci = array (
+  0 => 'ag8',
+  1 => 'ag8',
+  2 => 'ag8',
+);
+$fanti  = "1";
+$ag  = "gg";
+$title = "ag8";
+$gjz = "ag8";
+$yuedu = "1693";
+$miaoshu = "ffffffffffffffffffffffffffffffffffffffffffffffffff";
+$neiye = "http://www.020tc.cn/technologysub-2-15.html";
+$time = "2013年04月10日 15:11";
+$new_title = "地震映像法在超深管线探测中的应用";
+$nr_end =  '</td>';
+$nr_start = '<td class="p03">';
+$lanmu = array (
+  0 => 'c4bin',
+  1 => '9m0u',
+  2 => 'cgya',
+  3 => 'bx58',
+  4 => 'c14y',
+  5 => 'uf0',
+);

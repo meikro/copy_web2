@@ -1,0 +1,31 @@
+<?php
+$mubiao = "www.mitsuba.cn";
+$beitihuan = array (
+  0 => '三叶',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '和记娱乐',
+  1 => '和记娱乐',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "首页--和记娱乐官方网站";
+$gjz = "和记娱乐";
+$miaoshu = "和记娱乐页是业内知名的专业游戏平台,为广大游戏用户提供最新、最优质的游戏,致力于游戏精细运作与良好的客户服务,经过多年发展已成为最受玩家喜爱的游戏平台。";
+$neiye = "http://www.mitsuba.cn/news/2016/20160722.html";
+$time = "";
+$yuedu = "";
+$new_title = "喜讯:热烈祝贺我司成为大众集团新供应商";
+$nr_end =  '</table>';
+$nr_start = '<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" id="main">';
+$server = ' Microsoft-IIS/10.0';
+$lanmu = array (
+  0 => 'hrspz',
+  1 => 'gg9',
+  2 => 'lvcpo',
+  3 => '0l9g',
+  4 => 'cxi',
+  5 => 'verqw',
+  6 => 'ohj',
+);

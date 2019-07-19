@@ -1,0 +1,30 @@
+<?php
+$mubiao = "www.hnsygroup.com";
+$beitihuan = array (
+  0 => '森源',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '永利在线',
+  1 => '永利在线',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "永利在线官方 _";
+$gjz = "永利在线";
+$miaoshu = "永利在线官方国资委和中央企业要紧紧围绕推动实现高质量发展,抓住一切有利条件,调动一切积极因素,练好内功,主动作为,迎难而上,把国资国企改革发展事业";
+$neiye = "http://www.hnsygroup.com/news/52898_for_jituanxinwen_text.htm";
+$time = "2019-03-23";
+$yuedu = "0";
+$new_title = "集团董事局主席楚金甫获评许昌市杰出企业家";
+$nr_end =  '</div>';
+$nr_start = '<div class="main_content mh">';
+$server = ' Apache';
+$lanmu = array (
+  0 => 'knm8s',
+  1 => 'fwl5',
+  2 => 't2hx',
+  3 => 'k5x7b',
+  4 => 'ypxeg',
+  5 => '1vlr0',
+);

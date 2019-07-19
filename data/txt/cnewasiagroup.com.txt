@@ -1,0 +1,30 @@
+<?php
+$mubiao = "www.hn-au.com";
+$beitihuan = array (
+  0 => '黄金',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '永利在线',
+  1 => '永利在线',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "永利在线官方 _";
+$gjz = "永利在线";
+$miaoshu = "永利在线官方国资委和中央企业要紧紧围绕推动实现高质量发展,抓住一切有利条件,调动一切积极因素,练好内功,主动作为,迎难而上,把国资国企改革发展事业";
+$neiye = "http://www.hn-au.com/contents/16/905.html";
+$time = "2019/04/01";
+$yuedu = "0";
+$new_title = "湖南黄金集团召开整体搬迁后第一次工作会";
+$nr_end =  '</div>';
+$nr_start = '<div class="maintitle">';
+$server = ' Microsoft-IIS/8.0';
+$lanmu = array (
+  0 => '1p5zy',
+  1 => 'y6j87',
+  2 => 'bpz',
+  3 => 'flox6',
+  4 => 'ssxl',
+  5 => 'zhde6',
+);

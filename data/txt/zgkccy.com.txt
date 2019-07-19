@@ -1,0 +1,29 @@
+<?php
+$mubiao = "www.rifeng.com.cn";
+$beitihuan = array (
+  0 => '日丰',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '澳门百家乐',
+  1 => '澳门百家乐',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "澳门百家乐网站";
+$gjz = "澳门百家乐";
+$miaoshu = "澳门百家乐网址授权平台最具公信力品牌!美女客服每天24小时为广大游戏玩家提供最优质服务,百家乐玩法网站深受广大游戏爱好者点赞,澳门百家乐网址被评为全网最好的游戏";
+$neiye = "http://www.rifeng.com.cn/HtmlWeb/News/News_A_0201_5286.html";
+$time = "2019-06-04";
+$yuedu = "1710";
+$new_title = "尽显风采，日丰华丽亮相上海国际建筑水展";
+$nr_end =  '</div>';
+$nr_start = '<div class="new_x">';
+$server = ' Microsoft-IIS/7.5';
+$lanmu = array (
+  0 => 'pn1',
+  1 => '3jxd6',
+  2 => 'j8v',
+  3 => 'azgpf',
+  4 => 'lqsdk',
+);

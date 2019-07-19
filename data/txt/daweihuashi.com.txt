@@ -1,0 +1,31 @@
+<?php
+$mubiao = "www.lushang.com.cn";
+$beitihuan = array (
+  0 => '鲁商',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '乐投官网',
+  1 => '乐投官网',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "乐投官网|官网首页";
+$gjz = "乐投官网";
+$miaoshu = "乐投官网|官网首页是业内知名的专业游戏平台,为广大游戏用户提供最新、最优质的游戏,致力于游戏精细运作与良好的客户服务,经过多年发展已成为最受玩家喜爱的游戏平台。";
+$neiye = "http://www.lushang.com.cn/news/show-8275.aspx";
+$time = "2019-6-2";
+$yuedu = "";
+$new_title = "副省长凌文主持召开全省国企深化改革研讨会";
+$nr_end =  '</div></div>';
+$nr_start = '<div class="fr"><div class="poze">';
+$server = ' Microsoft-IIS/6.0';
+$lanmu = array (
+  0 => 'p66',
+  1 => 'liogx',
+  2 => 'w6nmv',
+  3 => 'v6tse',
+  4 => 'hz5ly',
+  5 => 'w4ps3',
+  6 => 'jgav',
+);

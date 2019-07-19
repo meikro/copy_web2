@@ -1,0 +1,30 @@
+<?php
+$mubiao = "www.colibri.com.cn";
+$beitihuan = array (
+  0 => '科瑞',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '和记娱乐',
+  1 => '和记娱乐',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "首页--和记娱乐官方网站";
+$gjz = "和记娱乐";
+$miaoshu = "和记娱乐页是业内知名的专业游戏平台,为广大游戏用户提供最新、最优质的游戏,致力于游戏精细运作与良好的客户服务,经过多年发展已成为最受玩家喜爱的游戏平台。";
+$neiye = "http://www.colibri.com.cn/news_detail/newsId=75.html";
+$time = "2019年1月30日 15:48";
+$yuedu = "477";
+$new_title = "厉害了！科瑞技术CTO刘少明先生接受瑞士国家电视台采访";
+$nr_end =  '</table>';
+$nr_start = '<div id="newsdetailshow" >';
+$server = ' yunjiasu-nginx';
+$lanmu = array (
+  0 => '17f',
+  1 => 'mb8em',
+  2 => 'wuljo',
+  3 => 'o95zn',
+  4 => 'btd',
+  5 => '2id',
+);

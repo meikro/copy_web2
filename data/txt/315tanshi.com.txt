@@ -1,0 +1,32 @@
+<?php
+$mubiao = "www.sdtz.net.cn";
+$beitihuan = array (
+  0 => '财金',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '亚洲真人网',
+  1 => '亚洲真人网',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "AG亚洲官网-AG真人娱乐平台-亚洲最佳平台-AG亚游官网集团";
+$gjz = "亚洲真人网";
+$miaoshu = "AG亚洲真人【www.AG82319.com】是亚洲地区最具影响力的AG娱乐品牌。AG真人娱乐游戏涵盖目前最热门的AG真人视讯,AG百家乐,AG捕鱼王,PT真人娱乐、MG老虎机,TTG捕鱼,等...";
+$neiye = "http://www.sdtz.net.cn/web/article?id=47011";
+$time = "2019/01/16 08:15";
+$yuedu = "500";
+$new_title = "山东财金集团主题教育读书班成功举办";
+$nr_end =  '</div>';
+$nr_start = '<div class="sj-content">';
+$server = ' Apache-Coyote/1.1';
+$lanmu = array (
+  0 => '0o567',
+  1 => 'ruy4k',
+  2 => 'w70km',
+  3 => 'ijge',
+  4 => 'sco0h',
+  5 => 'qvh',
+  6 => 'lot',
+  7 => 'db6',
+);

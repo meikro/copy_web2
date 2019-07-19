@@ -1,0 +1,31 @@
+<?php
+$mubiao = "www.saspg.com";
+$beitihuan = array (
+  0 => '空分',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '百家乐试玩',
+  1 => '百家乐试玩',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "百家乐试玩_ag亚游集团官网_亚洲最大游戏平台_点击进入";
+$gjz = "百家乐试玩";
+$miaoshu = "百家乐试玩官方贵宾通道, 优于普通会员的尊贵体验. 专属客服, 优惠更多, 存取款速度更快. 娱乐首选品牌";
+$neiye = "http://www.saspg.com/news-detail.php?id=1038";
+$time = "2019-06-20 14:34:17";
+$yuedu = "362";
+$new_title = "四川空分设备（集团）有限责任公司召开科技创新大会";
+$nr_end =  '</table>';
+$nr_start = '<table width="768" border="0" align="center" cellpadding="0" cellspacing="0">';
+$server = ' Tengine';
+$lanmu = array (
+  0 => 'h3mbm',
+  1 => '3jpe',
+  2 => 'fbsp',
+  3 => '1r9i',
+  4 => 'sx0',
+  5 => '22dd',
+  6 => 'vzp',
+);

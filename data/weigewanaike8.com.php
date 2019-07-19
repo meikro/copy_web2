@@ -1,0 +1,32 @@
+<?php
+$mubiao = "www.shengquan.com";
+$beitihuan = array (
+  0 => '圣泉',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '澳门百家乐',
+  1 => '澳门百家乐',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "网上百家乐网站_澳门线上百家乐_百家乐app_点击试玩";
+$gjz = "澳门百家乐";
+$miaoshu = "澳门百家乐网址授权平台最具公信力品牌!美女客服每天24小时为广大游戏玩家提供最优质服务,百家乐玩法网站深受广大游戏爱好者点赞,澳门百家乐网址被评为全网最好的游戏";
+$neiye = "http://www.shengquan.com/index.php?m=content&c=index&a=show&catid=72&id=1313";
+$time = "2019-06-17 14:02:05";
+$yuedu = "1003";
+$new_title = "山东圣泉新能源科技有限公司与哈工大机器人（山东）智能装备研究院";
+$nr_end =  '</div>';
+$nr_start = '<div class="new_m pro_m">';
+$server = ' Apache';
+$lanmu = array (
+  0 => '45scm',
+  1 => '8zvc',
+  2 => 'yt50',
+  3 => '16c',
+  4 => 'c6j8p',
+  5 => 'cec5c',
+  6 => 'vd7',
+  7 => 'eb5',
+);

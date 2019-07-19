@@ -1,0 +1,32 @@
+<?php
+$mubiao = "www.dahai-group.com";
+$beitihuan = array (
+  0 => '大海集团',
+  1 => '我们',
+);
+$tihuanci = array (
+  0 => '牛牛在线',
+  1 => '牛牛在线',
+);
+$jianti  = "1";
+$ag  = "meiko";
+$title = "牛牛在线玩app-牛牛在线玩游戏(棋牌)";
+$gjz = "牛牛在线";
+$miaoshu = "牛牛在线玩app是一款页面精美,玩法多样的多人竞技棋牌游戏,在游戏中为广大牌友们带来了丰富有趣的游戏体验,大家可以邀请好友组队pk,还可以登陆领金币,福利超多";
+$neiye = "http://www.dahai-group.com/news_detail/newsId=382.html";
+$time = "2019年6月5日 13:37";
+$yuedu = "128";
+$new_title = "大海光伏参加SNEC 第十三届(2019) 国际太阳能光伏与智慧能源( 上海)展览会暨论坛";
+$nr_end =  '</div>';
+$nr_start = '<div class="border_02">';
+$server = ' yunjiasu-nginx';
+$lanmu = array (
+  0 => 'ffy',
+  1 => 'tycp2',
+  2 => 'cks',
+  3 => 'w85x',
+  4 => '4vg',
+  5 => '54c0f',
+  6 => 'x2c2d',
+  7 => '2z2',
+);
